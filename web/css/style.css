@@ -1,0 +1,36 @@
+.logo{
+    font-size: 2em;
+    padding-left: 25px;
+}
+.circle{
+    display: inline;
+}
+.my-card-title{
+    top: 27px;
+    left: 75px;
+    position: absolute;
+}
+.usage{
+    font-size: 0.6em;
+}
+.project-title{
+    font-size: 1.2em;
+}
+.updated_at{
+    font-size: 0.8em;
+}
+
+#main-container{
+    margin: 0 auto;
+    max-width: 1920px;
+    width: 90%;
+}
+
+.main-title {
+    font-size: 34px !important;
+    font-weight: 600 !important;
+}
+
+.card-content{
+    border-bottom: 3px solid #df8620;
+}
