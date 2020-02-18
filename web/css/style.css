@@ -33,4 +33,20 @@
 
 .card-content{
     border-bottom: 3px solid #df8620;
+
+}
+
+.star-count{
+    display: inline-block !important;
+    position: relative !important;
+    bottom: 5px !important;
+}
+
+.secondary-content{
+    color: #df8620;
+}
+
+.card-panel {
+    padding: 0;
+    font-size: 60pt;
 }
